@@ -3,10 +3,9 @@ For learning and practicing with Kaggle competitions and Jupyter notebooks
 
 # intended structure of repository
 kaggle-portfolio/  
-
-├── .gitignore               # Vital: Ignore large .csv and .zip files
-├── requirements.txt         # Common libraries (pandas, scikit-learn, etc.)
-├── utils/                   # Shared code used across all competitions
+├── .gitignore               # Vital: Ignore large .csv and .zip files  
+├── requirements.txt         # Common libraries (pandas, scikit-learn, etc.)  
+├── utils/                   # Shared code used across all competitions  
 │   ├── plotting.py          # Custom confusion matrices or EDA plots
 │   └── validation.py        # Shared K-Fold or Stratified split logic
 │

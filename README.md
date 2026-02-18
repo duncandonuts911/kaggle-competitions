@@ -2,7 +2,8 @@
 For learning and practicing with Kaggle competitions and Jupyter notebooks
 
 # intended structure of repository
-kaggle-portfolio/
+kaggle-portfolio/  
+
 ├── .gitignore               # Vital: Ignore large .csv and .zip files
 ├── requirements.txt         # Common libraries (pandas, scikit-learn, etc.)
 ├── utils/                   # Shared code used across all competitions
